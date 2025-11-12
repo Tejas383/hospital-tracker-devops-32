@@ -1,0 +1,11 @@
+PatientID Name Doctor
+01 Amit Dr. Sharma
+02 Ashok Dr. Mehta
+03 Priya Dr. Verma
+04 Sneha Dr. Verma
+05 Sushil Dr. Sharma
+06 Anjali Dr. Mehta
+07 Prerna Dr. Mehta
+08 Kabir Dr. Sharma
+09 Krishna Dr. Sharma
+10 Prem Dr. Verma
